@@ -1,0 +1,19 @@
+{
+  "name": "create_deploy",
+  "version": "1.0.0",
+  "description": "this is first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "nilesh yadav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
